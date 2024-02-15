@@ -1,4 +1,4 @@
-### Hi there 👋, Stanley Boateng here.
+## Hi there 👋, I'm Stanley Boateng
 <!--
 **Stan1-0/Stan1-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
